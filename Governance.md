@@ -115,14 +115,14 @@ Many objectives will require collaboration between both subcommittees, to be org
 View the Advocacy Subcommittee roadmap, here.
 
 #### Objectives
-Raise awareness on why we need accessible data communications
-Inform & facilitate data visualization practitioners about good/better/best practices
-Facilitate change at a tool level
+* Raise awareness on why we need accessible data communications
+* Inform & facilitate data visualization practitioners about good/better/best practices
+* Facilitate change at a tool level
 
 #### Measures
-Identify stakeholders across the industry 
-Communicate with stakeholders using mediums they are open to engaging with
-Provide recognition in the industry 
+* Identify stakeholders across the industry 
+* Communicate with stakeholders using mediums they are open to engaging with
+* Provide recognition in the industry 
 
 #### List of Advocacy subcommittee members
 
@@ -130,7 +130,7 @@ SC Chair(s):
 * Emily Kund
 
 Core members:
-<list here>
+* TBA
 
 <br>
 
@@ -158,15 +158,15 @@ SC Chair(s):
 * Larene Le Gassick
 
 Core members:
-<list here>
+* TBA
 
-## List of current contributing members and invited experts
+<h3><a aria-label="Link to the section: List of current members" name="list-of-current-members">#</a> List of current contributing members and invited experts</h3> 
 
-<list here>
+TBA
 
 <br>
 
-## Roles and membership
+<h3><a aria-label="Link to the section: Roles and membership" name="roles-and-membership">#</a> Guide to roles and membership</h3> 
 
 ### Chairperson responsibilities
 * Provide leadership
@@ -183,7 +183,6 @@ How to become a chairperson? Nominated by an existing chair, and voted in favour
 * Can help to drive project work, as needed.
 
 How to become a core member? Nominated by core members or chair, and voted in favour by other members.
-
 
 #### Contributing members
 * Has assigned tasks or roles (e.g. dataviz accessibility speaker) related to group initiatives.

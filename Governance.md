@@ -184,7 +184,7 @@ How to become a chairperson? Nominated by an existing chair, and voted in favour
 
 How to become a core member? Nominated by core members or chair, and voted in favour by other members.
 
-#### Contributing members
+### Contributing members
 * Has assigned tasks or roles (e.g. dataviz accessibility speaker) related to group initiatives.
 * Can be nominated to become a core member if they wish to more actively contribute to the group's advocacy or development efforts.
 

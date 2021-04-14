@@ -134,22 +134,22 @@ Core members:
 
 <br>
 
-<h3><a aria-label="Link to the section: Development Subcommittee" name="subcommittees-development">#</a> Advocacy Subcommittee</h3>
+<h3><a aria-label="Link to the section: Development Subcommittee" name="subcommittees-development">#</a> Development Subcommittee</h3>
 
 View the Development Subcommittee roadmap, here.
 
 #### Objectives
-Develop a set of guidelines/standards reference for dataviz accessibility
+- Develop a set of guidelines/standards reference for dataviz accessibility
 general, and then tooling-specific
-Develop a set of guidelines for how to test/audit dataviz accessibility
-Build demonstrations of our findings
-Identify gaps
-Support the advocacy subcommittee with development
+- Develop a set of guidelines for how to test/audit dataviz accessibility
+- Build demonstrations of our findings
+- Identify gaps
+- Support the advocacy subcommittee with development
 
 #### Measures
-Identify and provide deliverables as needed
-Ongoing accuracy of information and transparency
-Analytics and usefulness of information
+- Identify and provide deliverables as needed
+- Ongoing accuracy of information and transparency
+- Analytics and usefulness of information
 
 #### List of Development subcommittee members
 

@@ -174,33 +174,19 @@ TBA
 * Public-facing representative of the group
 * Facilitate voting process on committee decisions
 
-How to become a chairperson? Nominated by an existing chair, and voted in favour by core members.
-
 ### Core Member responsibilities
 * Prepare for and attend committee meetings
 * Have voting rights
 * Has the potential to contribute to a project (can be a active contributor to more than 1 project)
 * Can help to drive project work, as needed.
 
-How to become a core member? Nominated by core members or chair, and voted in favour by other members.
-
 ### Contributing members
 * Has assigned tasks or roles (e.g. dataviz accessibility speaker) related to group initiatives.
 * Can be nominated to become a core member if they wish to more actively contribute to the group's advocacy or development efforts.
-
-How to become: an application process to help communicate interests, applicant can choose from a list of initiatives or objectives they are interested in.
-
-### Invited experts responsibilities
-* Attend core or subcommittee meetings as a guest
-* Provide subject management expertise
-
-How to become an invited guest? Nominated by core members or chairs, invited by the core chairperson.
 
 ### Community members
 * Are keen to learn and share dataviz accessibility knowledge
 * Are able to invite other community members
 * Are able to participate in activities hosted by Dataviz A11y committees.
-
-How to become a community member? Join via Data Visualization Society Slack, or join the mailing group(?).
 
 Questions? Please contact the Dataviz Accessibility Core Team `accessible-visualization [AT] outlook [DOT] com`

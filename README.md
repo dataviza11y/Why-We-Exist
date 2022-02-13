@@ -24,7 +24,7 @@
       <a href="#who-we-are">Who are we?</a>
     </li>
     <li>
-      <a href="#contributors">Current Contributors</a>
+      <a href="#contributors">Contributors</a>
     </li>
   </ol>
 </details>
@@ -89,7 +89,9 @@ Frank Elavsky is a data experience engineer and designer interested in accessibi
 
 <br>
 
-## <a aria-label="Link to the section: Current Contributors" name="contributors">#</a> Current Contributors:
+## <a aria-label="Link to the section: Contributors" name="contributors">#</a> Contributors:
+
+This is a collection of folks who have contributed to our efforts in a significant way, whether past or present. Due to the flexible nature of volunteer work, we decided it was best not to recognize only "current" contributors but keep a record of everyone that has really done a lot for us along the way.
 
 ### Amy Cesal, she/her
 

@@ -75,6 +75,8 @@ This is a [link to our longer list of resources on accessibility and data visual
 
 [Visa Chart Components](https://github.com/visa/visa-chart-components)
 
+[Flourish](https://flourish.studio/accessibility/)
+
 <br>
 
 ## <a aria-label="Link to the section: Who are we?" name="who-we-are">#</a> Who are we?

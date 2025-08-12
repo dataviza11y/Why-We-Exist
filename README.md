@@ -55,6 +55,8 @@ This is a [link to our longer list of resources on accessibility and data visual
 
 [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81), by Amy Cesal
 
+[Chartability, an accessibility evaluation framework](https://chartability.github.io/POUR-CAF/), by Frank Elavsky
+
 <br>
 
 ## <a aria-label="Link to the section: General Accessibility Resources Shortlist" name="a11y-resources-shortlist">#</a> General Accessibility Resources (Shortlist)

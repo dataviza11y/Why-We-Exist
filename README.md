@@ -89,7 +89,8 @@ Email the group: accessible-visualization [AT] outlook [DOT] com
 
 Frank Elavsky is a data experience engineer and designer interested in accessibility, motion and interaction design, and design systems. He helps schedule meetings and take care of simple admin tasks for this group.
 
-[Frank's Twitter](https://twitter.com/FrankElavsky)
+[Frank's Bluesky](https://bsky.app/profile/frank.computer)
+[Frank's Website]([https://bsky.app/profile/frank.computer](https://www.frank.computer/))
 
 <br>
 

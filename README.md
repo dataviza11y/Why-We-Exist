@@ -18,7 +18,7 @@
       <a href="#a11y-resources-shortlist">General Accessibility Resources (Shortlist)</a>
     </li>
     <li>
-      <a href="#libraries">Libraries</a>
+      <a href="#libraries">Libraries and Tools (Shortlist)</a>
     </li>
     <li>
       <a href="#who-we-are">Who are we?</a>
@@ -69,7 +69,7 @@ This is a [link to our longer list of resources on accessibility and data visual
 
 <br>
 
-## <a aria-label="Link to the section: Libraries Shortlist" name="libraries">#</a> Libraries (Shortlist)
+## <a aria-label="Link to the section: Libraries and Tools (Shortlist)" name="libraries">#</a> Libraries and Tools (Shortlist)
 
 [Highcharts](https://www.highcharts.com/)
 
